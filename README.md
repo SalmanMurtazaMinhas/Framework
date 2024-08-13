@@ -1,4 +1,5 @@
-# Project Framework for the Competition
+# Project Framework
+![Alt Text](/cat-typing.gif)
 
 ## 1. Project Overview
 **Goal:**  
