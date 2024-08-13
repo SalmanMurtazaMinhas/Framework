@@ -11,9 +11,9 @@ Your team’s task is to develop a catalog website where users can add and searc
 1. **Conceptualization:**
    - Define the key features: adding items to the catalog and a search function.
 2. **Design:**
-   - Design the user interface, focusing on simplicity and ease of use for adding and searching items (UX Designer).
+   - UI/UX designers will create the user interface, focusing on simplicity and ease of use for adding and searching items.
 3. **Development:**
-   - Implement the front-end and back-end for adding items to the inventory and a basic search function (Developer).
+   - Implement the front-end and back-end for adding items to the inventory and a basic search function (Developers).
 4. **Testing:**
    - Test the item addition process and search functionality to ensure they work smoothly.
 5. **Presentation:**
@@ -31,7 +31,7 @@ Your team’s task is to develop a catalog website where users can add and searc
 - **Day 1-2:** 
   - Brainstorming and defining core features.
 - **Day 3-4:**
-  - Design the UI/UX for adding and searching items; start development.
+  - UI/UX designers work on the design; developers start on the development.
 - **Day 5-6:**
   - Complete development and start testing the item addition and search functionalities.
 - **Day 7:**
@@ -56,7 +56,7 @@ Your team’s task is to develop a catalog website where users can add and searc
 
 ## 5. Resources
 ### Recommended Tools:
-- **Design:** Figma or Adobe XD for UX/UI design.
+- **Design:** Figma or Adobe XD for UI/UX design (handled by designers).
 - **Development:** HTML/CSS, JavaScript for the front-end; any simple back-end like Node.js for data handling.
 - **Testing:** Use basic manual testing for adding items and searching.
 
@@ -69,11 +69,11 @@ Your team’s task is to develop a catalog website where users can add and searc
 ## 6. Mentorship Guidelines
 ### How to Utilize Mentorship:
 1. **Initial Meetings:**
-   - Discuss the approach for adding and searching items, and gather feedback on UI/UX design.
+   - Discuss the approach for adding and searching items, and gather feedback on the implementation.
 2. **Ongoing Support:**
    - Check in regularly to troubleshoot development challenges and ensure the search function works effectively.
 3. **Key Questions:**
    - How can we optimize the search function for speed and accuracy?
-   - What are the most common pitfalls in designing an item catalog?
+   - What are the most common pitfalls in implementing an item catalog?
 4. **Focus Areas:**
    - Emphasize simplicity, user experience, and making the core features work smoothly.
